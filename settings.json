@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "terrawave.joinmc.world",
-    "port": 47063,
+    "ip": "HyenaSMP.aternos.me",
+    "port": 28799,
     "version": "1.21.11"
   },
   "position": {
