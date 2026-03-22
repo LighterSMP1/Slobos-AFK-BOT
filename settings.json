@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "terrawave.minekeep.gg",
-    "port": 19132,
+    "ip": "terrawave.joinmc.world",
+    "port": 47063,
     "version": "1.21.11"
   },
   "position": {
