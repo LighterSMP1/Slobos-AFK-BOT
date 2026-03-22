@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TerraWeave.play.hosting",
-    "port": 17877,
+    "ip": "terrawave.minekeep.gg",
+    "port": 19132,
     "version": "1.21.11"
   },
   "position": {
