@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HyenaSMP.aternos.me",
-    "port": 28799,
+    "ip": "terraweave.falixsrv.me",
+    "port": 22005,
     "version": "1.21.11"
   },
   "position": {
